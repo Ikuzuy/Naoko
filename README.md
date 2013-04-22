@@ -1,5 +1,10 @@
 # Naoko - A Synchtube bot
 
+# Continued at https://github.com/Suwako/cyNaoko for Cytube
+
+
+
+
 ## Requirements
 - Naoko was developed using Python 2.7.2
 - Naoko requires a registered Synchtube account, and most functionality does not work properly without being a moderator.
